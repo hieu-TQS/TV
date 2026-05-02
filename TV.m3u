@@ -203,7 +203,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://toiyeuvietnam.dpdns.org/OnliveTV/woman-hd/Free.m3u8
 
-#EXTINF:-1 tvg-id="musicbox" group-logo="https://toiyeuvietnam.dpdns.org/Logo/music-box/KenhBoSung.png" group-title="Quốc tế",Music box
+#EXTINF:-1 tvg-id="musicbox" group-logo="https://toiyeuvietnam.dpdns.org/Logo/music-box/KenhBoSung.png" group-title="Quốc tế",Music Box
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://toiyeuvietnam.dpdns.org/OnliveTV/music-box/Free.m3u8
 
