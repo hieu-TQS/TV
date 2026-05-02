@@ -415,22 +415,21 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-tennis/KenhCoBan.m3u8
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/hoat-hinh/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="phim-au-my" group-title="TV360 Live" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/phim-au-my/KenhCoBan.png",Phim Âu Mỹ
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/phim-au-my/KenhCoBan.m3u8
-
-#EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2024/10/07/17/1728296900530/38c6e7b9cb86_640_360.png" group-title="THVL",Vĩnh Long 1 HD
+#EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2024/10/07/17/1728296855302/149490571e60_640_360.png" group-title="Địa phương",Hà Nội 1
+https://live.fptplay53.net/fnxhd2/hanoitv1_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2024/10/07/16/1728293033798/d23973063be9_640_360.png" group-title="Địa phương",Hà Nội 2
+https://live.fptplay53.net/fnxhd1/hntv2_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2024/10/07/17/1728296900530/38c6e7b9cb86_640_360.png" group-title="Địa phương",Vĩnh Long 1 HD
 https://live.fptplay53.net/epzhd2/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2024/10/07/16/1728294117402/52d6fd6199a5_640_360.png" group-title="THVL",Vĩnh Long 2 HD
+#EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2024/10/07/16/1728294117402/52d6fd6199a5_640_360.png" group-title="Địa phương",Vĩnh Long 2 HD
 https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2025/04/17/22/1744905347918/48d1f6b96d4b_640_360.png" group-title="THVL",Vĩnh Long 3 HD
+#EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2025/04/17/22/1744905347918/48d1f6b96d4b_640_360.png" group-title="Địa phương",Vĩnh Long 3 HD
 https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2024/10/07/16/1728294229199/5f70465aa342_640_360.png" group-title="THVL",Vĩnh Long 4 HD
+#EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2024/10/07/16/1728294229199/5f70465aa342_640_360.png" group-title="Địa phương",Vĩnh Long 4 HD
 https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/26/10/1758857744376/434dd0684f49_640_360.png" group-title="THVL",Vĩnh Long 5 HD
+#EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/26/10/1758857744376/434dd0684f49_640_360.png" group-title="Địa phương",Vĩnh Long 5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://vietanhtv.id.vn/tv360/91/index.m3u8
-##EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2024/10/07/17/1728296855302/149490571e60_640_360.png" group-title="Hà Nội",Hà Nội 1
-https://live.fptplay53.net/fnxhd2/hanoitv1_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2024/10/07/16/1728293033798/d23973063be9_640_360.png" group-title="Hà Nội",Hà Nội 2
-https://live.fptplay53.net/fnxhd1/hntv2_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260421/2026042113/phPCrNicoD-QN1-THUMBNAIL-KENHVTVgo-500x281.webp" group-title="Địa phương",Quảng Ngãi
 https://live.fptplay53.net/epzsd1/quangngai_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260421/2026042113/izb5kvSgfS-QN2-THUMBNAIL-KENHVTVgo-500x281.webp" group-title="Địa phương",Quảng Ngãi 2
@@ -480,9 +479,9 @@ https://live.fptplay53.net/epzsd1/dongnai2_hls.smil/chunklist.m3u8
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&pkg=pkg11.hni
 #EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2025/07/01/17/1751364753117/4f1f0d74fc87_640_360.png" group-title="Địa phương",Hà Tĩnh
 https://wse.hatinhtv.net/live/httv1/chunklist_w1547680104.m3u8
-#EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2025/07/01/08/1751331689553/f287ef8d8574_640_360.png" group-title="Địa phương",Đồng Tháp
+#EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2025/07/01/08/1751331689553/f287ef8d8574_640_360.png" group-title="Địa phương",Đồng Tháp 1
 https://live.fptplay53.net/epzsd1/dongthap_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="dongthap2" tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/16/10/1757993795684/45f17a4f3b90_640_360.png" group-title="Địa phương", Miền Tây
+#EXTINF:-1 tvg-id="dongthap2" tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/16/10/1757993795684/45f17a4f3b90_640_360.png" group-title="Địa phương",Đồng Tháp 2 (Miền Tây)
 https://618b88f69e53b.streamlock.net/THDT2/thdttv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2020_09_23/1600823599924/b1d77a6c01a0_640_360.png" group-title="Địa phương",Sơn La
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
