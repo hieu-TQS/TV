@@ -329,7 +329,7 @@ https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=1071393f8fc237f3a9a28028142110f7:7a0f8c3c72e0ffff811d534c929c57c2
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/bloomberg.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="cnn" group-title="Quốc tế" tvg-logo="https://deadline.com/wp-content/uploads/2020/09/CNN-Logo.jpg", CNN
+#EXTINF:-1 tvg-id="cnn" group-title="Quốc tế" tvg-logo="https://i.postimg.cc/jdWQ1KV3/CNN-Logo-wine.png", CNN
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
