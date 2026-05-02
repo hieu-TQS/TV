@@ -487,6 +487,8 @@ https://618b88f69e53b.streamlock.net/THDT2/thdttv2/playlist.m3u8
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/sonla-720p.m3u8
 #EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2023/05/16/02/1684179436941/f2452666b507_640_360.png" group-title="Địa phương",Khánh Hòa
 https://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="khanhhoa1" group-title="Địa phương" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/khanh-hoa-1/KenhCoBan.png",Khánh Hòa 1
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/khanh-hoa-1/KenhCoBan.m3u8
 #EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2025/07/01/17/1751364479653/fdd748c39c4d_640_360.png" group-title="Địa phương",Huế
 https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2023/07/18/14/1689667110643/2aa9348c16ec_640_360.png" group-title="Địa phương",Hưng Yên
