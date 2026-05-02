@@ -162,11 +162,11 @@ https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist10
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PeDzjc8BSCff1b7Dh0PGog","kid":"Cd3+PWOGPK+ut50FRrCYqw"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="Box Movies 1" group-logo="https://lichphatsong.net/uploads/worigin/2023/04/25/box-movie-1644772c4e26b1_ce0f8564df0a2891356bbdf58cf1951b.png" group-title="Quốc tế",Box Movie 1
+#EXTINF:-1 tvg-id="Box Movies 1" "https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="Quốc tế" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/box-movie-1-hd/KenhBoSung.png",Box Movie 1
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://toiyeuvietnam.dpdns.org/OnliveTV/box-movie-1-hd/Free.m3u8
 
-#EXTINF:-1 tvg-id="hollywoodclassics" group-logo="https://s129137.cdn.mytvnet.vn/vimages/de/ee/ea/a0/07/7f/deea0-phollywoodclasic-channel-unkn.png" group-title="Quốc tế",Hollywood Classic
+#EXTINF:-1 tvg-id="hollywoodclassics" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="Quốc tế" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/hollywood-classic-hd/KenhBoSung.png",Hollywood Classic
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://toiyeuvietnam.dpdns.org/OnliveTV/hollywood-classic-hd/Free.m3u8
 
@@ -199,11 +199,11 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"s14Sp1pCpvkYRyOpD/QtnA","kid":"7nkVVk10OdCb01Vv/MyHpA"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="woman" group-logo="https://s129137.cdn.mytvnet.vn/vimages/34/40/05/5b/b7/72/3405b-pwomen-channel-unkn.png" group-title="Quốc tế",Woman
+#EXTINF:-1 tvg-id="woman" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="Quốc tế" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/woman-hd/KenhBoSung.png",Woman
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://toiyeuvietnam.dpdns.org/OnliveTV/woman-hd/Free.m3u8
 
-#EXTINF:-1 tvg-id="musicbox" group-logo="https://s129144.cdn.mytvnet.vn/vimages/ab/bd/d3/3e/e6/64/abd3e-pmusicboxhd-channel-unkn.png" group-title="Quốc tế",Music Box
+#EXTINF:-1 tvg-id="musicbox" group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" group-title="Quốc tế" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/music-box/KenhBoSung.png",Music Box
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://toiyeuvietnam.dpdns.org/OnliveTV/music-box/Free.m3u8
 
