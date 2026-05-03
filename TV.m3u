@@ -396,35 +396,35 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6908629732639ada4814a6208296d9c:7ca9bf03623f77b5e2f16df0b53f274d
 https://s129135.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd
-#EXTINF:-1 tvg-id="tv360-1" group-title="TV360 Live" group-logo="https://i.postimg.cc/tT0z2ZTL/ba1ca843cd06-480-270.png",TV360+ 1
+#EXTINF:-1 tvg-id="tv360-1" group-title="TV360 Live" tvg-logo="https://i.postimg.cc/tT0z2ZTL/ba1ca843cd06-480-270.png",TV360+ 1
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-1/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="tv360-2" group-title="TV360 Live" group-logo="https://i.postimg.cc/d1M94k1b/9647033848f3-480-270.png",TV360+ 2
+#EXTINF:-1 tvg-id="tv360-2" group-title="TV360 Live" tvg-logo="https://i.postimg.cc/d1M94k1b/9647033848f3-480-270.png",TV360+ 2
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-2/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="tv360-3" group-title="TV360 Live" group-logo="https://i.postimg.cc/4dC1B7yC/af82cd28fcda-480-270.png",TV360+ 3
+#EXTINF:-1 tvg-id="tv360-3" group-title="TV360 Live" tvg-logo="https://i.postimg.cc/4dC1B7yC/af82cd28fcda-480-270.png",TV360+ 3
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-3/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="tv360-4" group-title="TV360 Live" group-logo="https://i.postimg.cc/QtLq09Cr/9a85754a5bd9-480-270.png",TV360+ 4
+#EXTINF:-1 tvg-id="tv360-4" group-title="TV360 Live" tvg-logo="https://i.postimg.cc/QtLq09Cr/9a85754a5bd9-480-270.png",TV360+ 4
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-4/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="tv360-5" group-title="TV360 Live" group-logo="https://i.postimg.cc/C1y4mB5Y/634cdb439c75-480-270.png",TV360+ 5
+#EXTINF:-1 tvg-id="tv360-5" group-title="TV360 Live" tvg-logo="https://i.postimg.cc/C1y4mB5Y/634cdb439c75-480-270.png",TV360+ 5
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-5/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="tv360-6" group-title="TV360 Live" group-logo="https://i.postimg.cc/xCrPtJ8n/d06a99b5bd9c-480-270.png",TV360+ 6
+#EXTINF:-1 tvg-id="tv360-6" group-title="TV360 Live" tvg-logo="https://i.postimg.cc/xCrPtJ8n/d06a99b5bd9c-480-270.png",TV360+ 6
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-6/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="tv360-7" group-title="TV360 Live" group-logo="https://i.postimg.cc/j5VhZw2s/4631db40bb03-480-270.png",TV360+ 7
+#EXTINF:-1 tvg-id="tv360-7" group-title="TV360 Live" tvg-logo="https://i.postimg.cc/j5VhZw2s/4631db40bb03-480-270.png",TV360+ 7
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-7/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="tv360-8" group-title="TV360 Live" group-logo="https://i.postimg.cc/2647JkbM/516c4028c806-480-270.png",TV360+ 8
+#EXTINF:-1 tvg-id="tv360-8" group-title="TV360 Live" tvg-logo="https://i.postimg.cc/2647JkbM/516c4028c806-480-270.png",TV360+ 8
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-8/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="tv360-9" group-title="TV360 Live" group-logo="https://i.postimg.cc/9M3BJRML/c30a206da84a-480-270.png",TV360+ 9
+#EXTINF:-1 tvg-id="tv360-9" group-title="TV360 Live" tvg-logo="https://i.postimg.cc/9M3BJRML/c30a206da84a-480-270.png",TV360+ 9
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-9/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="tv360-10" group-title="TV360 Live" group-logo="https://i.postimg.cc/Y9cxbG9D/5f459b37721d-480-270.png",TV360+ 10
+#EXTINF:-1 tvg-id="tv360-10" group-title="TV360 Live" tvg-logo="https://i.postimg.cc/Y9cxbG9D/5f459b37721d-480-270.png",TV360+ 10
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-10/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="tv360-11" group-title="TV360 Live" group-logo="https://i.postimg.cc/k4ryf64L/5fc303f5ba08-480-270.png",TV360+ 11
+#EXTINF:-1 tvg-id="tv360-11" group-title="TV360 Live" tvg-logo="https://i.postimg.cc/k4ryf64L/5fc303f5ba08-480-270.png",TV360+ 11
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-11/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="tv360-12" group-title="TV360 Live" group-logo="https://i.postimg.cc/FRtxDdRq/76b4144bff34-640-360.png",TV360+ 12
+#EXTINF:-1 tvg-id="tv360-12" group-title="TV360 Live" tvg-logo="https://i.postimg.cc/FRtxDdRq/76b4144bff34-640-360.png",TV360+ 12
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-12/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="livestream-01" group-title="TV360 Live" group-logo="https://i.postimg.cc/1RDyWLWW/live.png"",Livestream 01
+#EXTINF:-1 tvg-id="livestream-01" group-title="TV360 Live" tvg-logo="https://i.postimg.cc/1RDyWLWW/live.png"",Livestream 01
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/livestream-01/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="tv360" group-title="TV360 Live" tvg-logo="https://i.postimg.cc/gkWfr1kZ/a5f8181388ab-480-270.png",TV360 Promo
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="360-anime" group-title="TV360 Live" group-logo="https://i.postimg.cc/kg9q3Bbn/462daff06d9d-480-270.png",360 Anime
+#EXTINF:-1 tvg-id="360-anime" group-title="TV360 Live" tvg-logo="https://i.postimg.cc/kg9q3Bbn/462daff06d9d-480-270.png",360 Anime
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-anime/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="hoat-hinh" group-title="TV360 Live" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/07/15/1775549978212/fcfc9c6d7919_480_270.png",Hoạt hình
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/hoat-hinh/KenhCoBan.m3u8
@@ -436,7 +436,7 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-phim-kinh-dien/KenhCo
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-hai-tinh-cam/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="360-hoa-ngu" group-title="TV360 Live" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/09/08/1775697736867/3854900b7263_480_270.png",360 Hoa Ngữ
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-hoa-ngu/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="360-hanh-dong-chau-a" group-title="TV360 Live" group-logo="https://i.postimg.cc/L8R2Kn1s/1f38a5af77c1-480-270.png",360 Hành động Châu Á
+#EXTINF:-1 tvg-id="360-hanh-dong-chau-a" group-title="TV360 Live" tvg-logo="https://i.postimg.cc/L8R2Kn1s/1f38a5af77c1-480-270.png",360 Hành động Châu Á
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-hanh-dong-chau-a/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="360-k-drama" group-title="TV360 Live" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/09/21/1775744591740/79928f9b003f_480_270.png",360 K-Drama
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-k-drama/KenhCoBan.m3u8
@@ -448,11 +448,11 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-c2-chau-au/KenhCoBan.
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-c3-chau-au/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="360-the-thao-chau-a" group-title="TV360 Live" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/16/00/1776274695415/4b2703dbb4c4_480_270.png",360 Thể Thao Châu Á
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-the-thao-chau-a/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="360-cong-thuc-1" group-title="TV360 Live" group-logo="https://i.postimg.cc/5231xbBx/ceaa765c5dbe-480-270.png",360 Công Thức 1
+#EXTINF:-1 tvg-id="360-cong-thuc-1" group-title="TV360 Live" tvg-logo="https://i.postimg.cc/5231xbBx/ceaa765c5dbe-480-270.png",360 Công Thức 1
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-cong-thuc-1/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="360-bundesliga" group-title="TV360 Live" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/16/08/1776301510855/e14eaed5c4d8_480_270.png",360 Bundesliga
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-bundesliga/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="360-golf" group-title="TV360 Live" group-logo="https://i.postimg.cc/FHZm9NyN/e6e315b781fb-480-270.png",360 Golf
+#EXTINF:-1 tvg-id="360-golf" group-title="TV360 Live" tvg-logo="https://i.postimg.cc/FHZm9NyN/e6e315b781fb-480-270.png",360 Golf
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-golf/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="360-tennis" group-title="TV360 Live" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/16/15/177632805669/a8c9881d6b08_480_270.png",360 Tennis
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-tennis/KenhCoBan.m3u8
