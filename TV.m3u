@@ -397,7 +397,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=b6908629732639ada4814a6208296d9c:7ca9bf03623f77b5e2f16df0b53f274d
 https://s129135.cdn.mytvnet.vn/pkg20/live_dzones/tlc.smil/manifest.mpd
 #EXTINF:-1 tvg-id="FPTPlay" group-title="FPT" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_fpt-play_16564756306.png",FPT Play
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-1/KenhCoBan.m3u8
 https://vips-livecdn.fptplay.net/MzU1MjU0NnxmLWNoYW5uZWwxX3ZobHMuc21pbHx2bnB0fDE3Nzc5NjI1NDh8MTEzLjE4NS40Ny4xODF8MjA4NmJkYWEzMjZmNGYyZTJjMzdjNjQwOTRiZDc0ZWI/fnxhd2/f-channel1_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="tv360-1" group-title="TV360 Live" tvg-logo="https://i.postimg.cc/tT0z2ZTL/ba1ca843cd06-480-270.png",TV360+ 1
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-1/KenhCoBan.m3u8
