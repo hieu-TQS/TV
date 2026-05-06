@@ -108,7 +108,7 @@ https://sgclient.duckdns.org/source/tv360.m3u8?id=169
 https://liveh12.vtvprime.vn/hls/SCTV1/03.m3u8
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://img.vtvprime.vn/2-NtvNvKve2iVPZxEjQcsXZE_As2Re-izRbLrmGrsUg/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMjE3ZWExZWYtYzFhMS00NWY0LTg3MzEtM2Y1ODhkZmE0OTBhLnBuZw==.png", SCTV2 - TODAY TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://sgclient.duckdns.org/source/tv360.m3u8?id=169
+https://sgclient.duckdns.org/source/tv360.m3u8?id=201
 #EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://img.vtvprime.vn/SFR0K5H7NLTMtagNF5BhyqXEv4y5ek45kew7APgJ0Bw/rs:fit:836:468/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvM2I4OTk1YzUtMjI1Mi00ZDcwLWI1ZGMtZTdiZDk2YjBlOGIyLnBuZw==.png", SCTV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.vtvprime.vn/hls/SCTV3/03.m3u8
@@ -446,7 +446,7 @@ https://sgclient.duckdns.org/source/tv360.m3u8?id=9958
 #KODIPROP:inputstream.adaptive.license_key=70d033252d025d719ba70a37acc0f5c8:6ca465d8b3018f1604da6d43d3395a6d
 https://sgclient.duckdns.org/source/tv360.mpd?id=10001
 #EXTINF:-1 tvg-id="livestream-01" group-title="TV360 Live" tvg-logo="https://i.postimg.cc/1RDyWLWW/live.png"",Livestream 01
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/livestream-01/KenhCoBan.m3u8
+https://sgclient.duckdns.org/source/tv360.m3u8?id=9888
 #EXTINF:-1 tvg-id="tv360" group-title="TV360 Live" tvg-logo="https://i.postimg.cc/gkWfr1kZ/a5f8181388ab-480-270.png",TV360 Promo
 https://sgclient.duckdns.org/source/tv360.m3u8?id=9904
 #EXTINF:-1 tvg-id="360-anime" group-title="TV360 Live" tvg-logo="https://i.postimg.cc/kg9q3Bbn/462daff06d9d-480-270.png",360 Anime
@@ -717,7 +717,8 @@ https://s6.kkphimplayer6.com/20260320/02bq9QLy/3500kb/hls/index.m3u8
 https://s6.kkphimplayer6.com/20260403/6UwV8LAv/3500kb/hls/index.m3u8
 #EXTINF:-1 group-title="Rạp phim" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/huyentinhdatrach.jpg", Huyền Tình Dạ Trạch
 https://rumble.com/hls-vod/76srew/playlist.m3u8
-#EXTINF:-1 group-title="Rạp phim" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2026/04/29/nha-minh-di-thoi-fpt-play-1777439633547_Landscape.jpg", Nhà Mình Đi Thôi
+#EXTINF:-1 group-title="Rạp phim" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2026/04/29/nha-minh-di-thoi-fpt-play-1777439633547_Landscape.jpg", Nhà Mình Đi Thôiôi
+https://vip.opstream90.com/20260502/30774_da58e2e4/3000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="Rạp phim" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2026/01/12/dua-con-cua-than-tuong-phan-3-fpt-play-1768204408459_Background_origin.jpg", Oshi No Ko Phần 3 - Tập 1
 https://rumble.com/hls-vod/72av32/playlist.m3u8
 #EXTINF:-1 group-title="Rạp phim" tvg-logo="https://images.fptplay53.net/media/OTT/VOD/2026/01/12/dua-con-cua-than-tuong-phan-3-fpt-play-1768204408459_Background_origin.jpg", Oshi No Ko Phần 3 - Tập 2
