@@ -364,10 +364,10 @@ https://newidco-babysharktv-1-us.roku.wurl.tv/4300.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"uDPR9AwmHveIlvl+BvgM3A","kid":"zKc6AGtLOaWVIHzrXtnKCg"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cbb.smil/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ryBfGz3R/EBS-KIDS-2000.png" group-title="Quốc tế",EBS Kids TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJmrd2gK/EBS-kids.png" group-title="Quốc tế",EBS Kids TV
 https://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://vn.xemtv.net/image/pbskids.png" group-title="Quốc tế",PBS Kids
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fyQwM1CW/PBS-Kids.png" group-title="Quốc tế",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000.m3u8
 
 #EXTINF:-1 tvg-id="cartoonhd" group-title="Quốc tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/09/30/17/16329991075/0c76e4e7e984_480_270.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Cartoon Network HD
